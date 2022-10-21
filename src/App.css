@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+}
+body{
+  background-image: linear-gradient(rgb(176, 212, 241),
+            rgb(231, 161, 210),
+            rgb(244, 244, 248));
+  height: 1000px;
+}
+.navhead{
+  display: flex;
+  justify-content: space-around;
+  background-color: blue;
+  padding: 20px;
+
+}
+.head1{
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
+}
+h1{
+  margin-left: 50px;
+  color: brown;
+}
+table{
+  margin-left: 40px;
+  margin-top: 100px;
+}
+th{
+  background-color: gray;
+  padding: 10px 100px;
+}
+td{
+  text-align: center;
+  padding: 5px 0px;
+}
+input{
+  margin: 100px;
+  width: 230px;
+  height: 40px;
+  text-align: center;
+  border: 2px solid rgb(116, 88, 88);
+}
+.inpt{
+  margin-top: -30px;
+  margin-left: 200px;
+}
+.edit1{
+  text-decoration: none;
+  padding: 0 120px;  
+}
+button{
+  padding: 10px 50px;
+  background-color: rgb(95, 167, 167);
+  border-radius: 50px;
+  font-size: 20px;
+  margin: 10px;
+}
+.btn1{
+  position: absolute;
+  margin-left: 1080px;
+}
+.btn2{
+  margin-left: 800px;
+}
+.page1{
+  background-image: linear-gradient(rgb(94, 59, 67),
+  rgb(158, 69, 99),
+  rgb(218, 153, 178));
+height: 1000px;
+margin-top: 20px;
+}
